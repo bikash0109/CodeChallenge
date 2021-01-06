@@ -1,0 +1,32 @@
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\resources\CompensationSeedData.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.CoreCompileInputs.cache
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+D:\Bikash\Documents\Desk\Mindex\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.genruntimeconfig.cache
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\resources\CompensationSeedData.json
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.CoreCompileInputs.cache
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.genruntimeconfig.cache
+D:\Bikash\Documents\Desk\Mindex Copy\MindExCode-master\MindExCode-master\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csprojAssemblyReference.cache
